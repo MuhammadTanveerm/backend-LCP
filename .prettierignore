@@ -4,3 +4,5 @@
 .env
 .env.*
 *.env
+
+# mongodb+srv://mtanveer:<password>@cluster0.rnik6eh.mongodb.net/
