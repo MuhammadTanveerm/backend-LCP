@@ -3,6 +3,13 @@ const fs = require('fs')
 // const dotenv = require('dotenv')
 
           
+// cloudinary.config({ 
+//   cloud_name: 'dzyjit5iy', 
+//   api_key: '538423668551343', 
+//   api_secret: 'rBWeLWBsW1tHWAIb3--Tl6ALmRU' 
+// // });
+// import {v2 as cloudinary} from 'cloudinary';
+          
 cloudinary.config({ 
   cloud_name: 'dzyjit5iy', 
   api_key: '538423668551343', 
