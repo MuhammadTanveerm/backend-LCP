@@ -16,5 +16,5 @@
     timestamps:true
 })
 
-const   subscriptions = mongoose.model("Subscription", subscriptionSchema)
+const subscriptions = mongoose.model("Subscription", subscriptionSchema)
 module.exports= subscriptions
