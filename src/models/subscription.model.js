@@ -2,7 +2,7 @@
  const mongoose = require('mongoose')
 
  const subscriptionSchema = new mongoose.Schema({
-    subscribe:{
+    subscriber:{
         type:Schema.Types.ObjectId ,// who subscribe to the channel
         ref: "User"
     },
